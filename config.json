@@ -1,6 +1,6 @@
 {
     "database": {
-        "host": "dogukanpostgresl.postgres.database.azure.com",
+        "host": "ornekbrname.postgres.database.azure.com",
         "dbname": "postgres",
         "user": "dogukanuser",
         "password": "Drs408590k*",
