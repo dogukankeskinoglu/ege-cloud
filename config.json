@@ -2,7 +2,7 @@
     "database": {
         "host": "dogukanpostgresl.postgres.database.azure.com",
         "dbname": "postgres",
-        "user": "usrdogukan",
+        "user": "dogukanuser",
         "password": "Drs408590k*",
         "ssl": "require"
     }

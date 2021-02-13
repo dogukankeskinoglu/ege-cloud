@@ -22,7 +22,6 @@ def index():
 
 @app.route('/list')
 def list_items():
-
     def generate():  # our generator for list items
         db = Database()
         with db.get_cursor() as cursor:
